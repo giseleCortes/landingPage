@@ -70,7 +70,6 @@ body {
 }
 
 .send {
-  border: #fff solid 4px;
   border-radius: 4px;
   background-color: #fff;
   margin: 20px;
@@ -82,5 +81,13 @@ body {
 
 .input:hover {
   background-color: #fdd802;
+}
+
+.send:hover {
+  background-color: #000;
+  font-weight: bold;
+  border: 2px solid #000dbe;
+  color: #fff;
+  size: 20px;
 }
 /*# sourceMappingURL=styles.css.map */
